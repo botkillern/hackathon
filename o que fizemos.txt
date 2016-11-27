@@ -1,0 +1,19 @@
+O que fizemos
+
+
+=== Para segurado
+App mobile com telas simples
+	- Autenticação
+	- Visualizar apólices e itens por apólice
+	- Solicitar uma nova apólice
+	- Renovar apólice
+	- Solicitar inspeção para novo seguro - O mais rápido possível
+	- Solicitar inspeção para sinistro
+
+=== Para inspetor
+App mobile com telas simples
+	- Agenda com inspeções a serem feitas
+	- formulario de inspeção
+	- comprovar inspeção com o código do cliente
+	- enviar fotos tiradas na hora
+	- validar vistorias

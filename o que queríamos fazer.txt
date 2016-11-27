@@ -1,0 +1,35 @@
+O que queriamos fazer = 
+
+=== Cliente
+1. Solicitar inspeção - Tanto para ocorrência quanto para um novo seguro
+2. Receber chave para confirmação - Chave para que quando o inspetor chegue no local, a vistoria seja validada
+3. Localização do inspetor via status e distância (ou GPS puro)
+4. Fim - Receber orçamento do seguro ou confirmação da proposta
+
+=== Inspetor - Contratados, terceiros ou autonomos
+Corretora filtra os inspetores mais próximos do local do segurado
+Atribui a tarefa de inspeção para um inspetor
+	Dispositivo móvel
+	- Agenda de inspeções sob responsabilidades do inspetor 
+		* propostas para análise; 
+		* propostas validadas
+	- Próximos serviços 
+	- Custos adicionais
+	- Segurança
+		* Criptografia
+		* 2 chips p/ contingência
+	- Monitoração do tempo de atendimento para qualificação do inspetor
+
+
+=== Seguradora
+	- Localização dos inspetores
+		* livres, em atendimento, afastados...
+	- Tragetória 
+	- Validação de dados
+		-- Evitar fraudes, etc
+	- Análise de dados em massa:
+		- Estatísticas da região
+			- Quantidade de ocorrências pode influênciar o preço do seguro
+			- Quantidade de clientes por região auxilia na hora de definir prioridades
+			- Tipos de apólices e itens segurados mais utilizados ajudam em quais setores direcionar o investimento
+		- Classificão dos inspetores para avaliação dos serviços prestados
